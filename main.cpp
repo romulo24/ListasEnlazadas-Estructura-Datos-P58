@@ -22,8 +22,6 @@ void menu(){
     cout<<" 3.Search Element"<<endl;
     cout<<" 4. Exit "<<endl;
     cout<<" \n Enter an option: ";
-
-
 }
 
 void insertar(lista_simple &nuevo_nodo,int valor){
